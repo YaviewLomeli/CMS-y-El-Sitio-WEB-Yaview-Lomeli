@@ -1,0 +1,1269 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-12 17:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: wshk-class.php:769
+msgid "No reviews has been made yet."
+msgstr ""
+
+#: wshk-class.php:771
+msgid "Make your first review"
+msgstr ""
+
+#: woo-shortcodes-kit.php:64 woo-shortcodes-kit.php:67
+#: woo-shortcodes-kit.php:586
+msgid "Settings"
+msgstr ""
+
+#: woo-shortcodes-kit.php:65 woo-shortcodes-kit.php:67
+msgid "Please rate the plugin"
+msgstr ""
+
+#: woo-shortcodes-kit.php:66 woo-shortcodes-kit.php:67
+msgid "Learn how work all the functions"
+msgstr ""
+
+#: woo-shortcodes-kit.php:504
+msgid "Show Advanced Options"
+msgstr ""
+
+#: woo-shortcodes-kit.php:513
+msgid "Hide Advanced Options"
+msgstr ""
+
+#: woo-shortcodes-kit.php:572
+msgid "Queries in"
+msgstr ""
+
+#: woo-shortcodes-kit.php:572
+msgid "seconds"
+msgstr ""
+
+#: woo-shortcodes-kit.php:588
+msgid "Shortcodes"
+msgstr ""
+
+#: woo-shortcodes-kit.php:591
+msgid "Contact"
+msgstr ""
+
+#: woo-shortcodes-kit.php:615
+msgid "General Settings"
+msgstr ""
+
+#: woo-shortcodes-kit.php:616
+msgid "Just need make a click in each section to view the functions."
+msgstr ""
+
+#: woo-shortcodes-kit.php:616
+msgid "Enable & configure the functions."
+msgstr ""
+
+#: woo-shortcodes-kit.php:616
+msgid "(Some functions use a shortcode to be displayed in the Frontend)"
+msgstr ""
+
+#: woo-shortcodes-kit.php:715
+msgid "CUSTOMIZE THE ORDER EMAIL"
+msgstr ""
+
+#: woo-shortcodes-kit.php:729
+msgid "Enable Product thumbnail in email orders"
+msgstr ""
+
+#: woo-shortcodes-kit.php:730
+msgid "The thumbnail will appear in the order email when a user buy a product."
+msgstr ""
+
+#: woo-shortcodes-kit.php:744
+msgid "Set the size for the product thumbnail:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:754
+msgid "CUSTOMIZE THE ADD TO CART BUTTON"
+msgstr ""
+
+#: woo-shortcodes-kit.php:768
+msgid ""
+"Enable Change the button text \"Add to cart\" if user have the product "
+"purchase"
+msgstr ""
+
+#: woo-shortcodes-kit.php:769
+msgid ""
+"The Shop page´s button and the summary´s button text will change if the user "
+"have purchase the product."
+msgstr ""
+
+#: woo-shortcodes-kit.php:782
+msgid "Write here the text to display in the button:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:782
+msgid "Downloaded/Bought"
+msgstr ""
+
+#: woo-shortcodes-kit.php:802
+msgid ""
+"Enable Change the Add to cart button text & write a different text in each "
+"case"
+msgstr ""
+
+#: woo-shortcodes-kit.php:803
+msgid ""
+"You can modify the text for external, grouped, simple, variable products"
+msgstr ""
+
+#: woo-shortcodes-kit.php:817 woo-shortcodes-kit.php:819
+#: woo-shortcodes-kit.php:825 woo-shortcodes-kit.php:827
+#: woo-shortcodes-kit.php:829
+msgid "Write here the text to display in the"
+msgstr ""
+
+#: woo-shortcodes-kit.php:817
+msgid "external"
+msgstr ""
+
+#: woo-shortcodes-kit.php:817 woo-shortcodes-kit.php:819
+#: woo-shortcodes-kit.php:825 woo-shortcodes-kit.php:827
+#: woo-shortcodes-kit.php:829
+msgid "products:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:817
+msgid "Buy this product"
+msgstr ""
+
+#: woo-shortcodes-kit.php:819
+msgid "grouped"
+msgstr ""
+
+#: woo-shortcodes-kit.php:819
+msgid "View products"
+msgstr ""
+
+#: woo-shortcodes-kit.php:825
+msgid "simple"
+msgstr ""
+
+#: woo-shortcodes-kit.php:825
+msgid "Add to cart"
+msgstr ""
+
+#: woo-shortcodes-kit.php:827
+msgid "variable"
+msgstr ""
+
+#: woo-shortcodes-kit.php:827
+msgid "Select options"
+msgstr ""
+
+#: woo-shortcodes-kit.php:829
+msgid "default"
+msgstr ""
+
+#: woo-shortcodes-kit.php:829
+msgid "Read more"
+msgstr ""
+
+#: woo-shortcodes-kit.php:843
+msgid "CUSTOMIZE THE SHOP PAGE"
+msgstr ""
+
+#: woo-shortcodes-kit.php:853
+msgid "Enable Display only products of specifics categories in shop page"
+msgstr ""
+
+#: woo-shortcodes-kit.php:853
+msgid ""
+"Write the category-slug of each category that you want display in shop page "
+"page:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:863 woo-shortcodes-kit.php:892
+msgid "First Category:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:863 woo-shortcodes-kit.php:865
+#: woo-shortcodes-kit.php:867 woo-shortcodes-kit.php:892
+#: woo-shortcodes-kit.php:894 woo-shortcodes-kit.php:896
+msgid "category-slug"
+msgstr ""
+
+#: woo-shortcodes-kit.php:865 woo-shortcodes-kit.php:894
+msgid "Second Category:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:867 woo-shortcodes-kit.php:896
+msgid "Third Category:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:882
+msgid "Enable to exclude products of specifics categories in shop page"
+msgstr ""
+
+#: woo-shortcodes-kit.php:882
+msgid ""
+"Write the category-slug of each category that you want exclude in shop page "
+"page:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:920
+msgid "Enable Products per page Manager"
+msgstr ""
+
+#: woo-shortcodes-kit.php:920
+msgid "Write the number of products to display per page"
+msgstr ""
+
+#: woo-shortcodes-kit.php:925
+msgid "Number of products:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:925
+msgid "-1 to show all products"
+msgstr ""
+
+#: woo-shortcodes-kit.php:925
+msgid "Write -1 to display All products"
+msgstr ""
+
+#: woo-shortcodes-kit.php:939
+msgid "Enable Product Downloads/Sales Counter"
+msgstr ""
+
+#: woo-shortcodes-kit.php:939
+msgid ""
+"Write the text to show and set the minimun number of Downloads/Sales that a "
+"product must have to display the message"
+msgstr ""
+
+#: woo-shortcodes-kit.php:944 woo-shortcodes-kit.php:948
+msgid "Write here the text to display below the product:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:944
+msgid "Downloads"
+msgstr ""
+
+#: woo-shortcodes-kit.php:944 woo-shortcodes-kit.php:948
+msgid "You can use HTML to add icons and text styles, just remember modify the"
+msgstr ""
+
+#: woo-shortcodes-kit.php:944 woo-shortcodes-kit.php:948
+msgid "with"
+msgstr ""
+
+#: woo-shortcodes-kit.php:944
+msgid "Example: i class='fa fa-download' aria-hidden='true'"
+msgstr ""
+
+#: woo-shortcodes-kit.php:946
+msgid "Set the minimun number of downloads to display the message:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:946 woo-shortcodes-kit.php:948
+msgid "All"
+msgstr ""
+
+#: woo-shortcodes-kit.php:946
+msgid ""
+"By default, is set to display the message without count the number of "
+"downloads."
+msgstr ""
+
+#: woo-shortcodes-kit.php:948
+msgid "Sales"
+msgstr ""
+
+#: woo-shortcodes-kit.php:948
+msgid "Example: i class='fa fa-shopping-cart' aria-hidden='true'"
+msgstr ""
+
+#: woo-shortcodes-kit.php:948
+msgid "Set the minimun number of sales to display the message:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:948
+msgid ""
+"By default, is set to display the message without count the number of sales."
+msgstr ""
+
+#: woo-shortcodes-kit.php:961
+msgid "CUSTOMIZE THE SHORTCODES"
+msgstr ""
+
+#: woo-shortcodes-kit.php:971
+msgid "Enable for Display & Change the customer total bought products texts"
+msgstr ""
+
+#: woo-shortcodes-kit.php:971 woo-shortcodes-kit.php:1001
+#: woo-shortcodes-kit.php:1031 woo-shortcodes-kit.php:1061
+msgid "Write the prefix and suffix texts to show."
+msgstr ""
+
+#: woo-shortcodes-kit.php:976 woo-shortcodes-kit.php:1006
+#: woo-shortcodes-kit.php:1036
+msgid "Write here the text prefix:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:976
+msgid "You have bought"
+msgstr ""
+
+#: woo-shortcodes-kit.php:976 woo-shortcodes-kit.php:979
+#: woo-shortcodes-kit.php:982 woo-shortcodes-kit.php:985
+#: woo-shortcodes-kit.php:1006 woo-shortcodes-kit.php:1009
+#: woo-shortcodes-kit.php:1012 woo-shortcodes-kit.php:1015
+#: woo-shortcodes-kit.php:1036 woo-shortcodes-kit.php:1039
+#: woo-shortcodes-kit.php:1042 woo-shortcodes-kit.php:1045
+msgid "You can leave empty to show nothing"
+msgstr ""
+
+#: woo-shortcodes-kit.php:979
+msgid "Write here the text suffix:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:979
+msgid "product"
+msgstr ""
+
+#: woo-shortcodes-kit.php:982 woo-shortcodes-kit.php:1012
+#: woo-shortcodes-kit.php:1042
+msgid "Write here the text plural suffix:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:982
+msgid "products"
+msgstr ""
+
+#: woo-shortcodes-kit.php:985
+msgid "Text when dont have bought any product:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:985
+msgid "You dont have any products bought yet"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1001
+msgid "Enable for Display & Change the customer total orders texts"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1006 woo-shortcodes-kit.php:1036
+msgid "You have made"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1009 woo-shortcodes-kit.php:1039
+msgid "Write here the text singular suffix:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1009
+msgid "order"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1012
+msgid "orders"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1015
+msgid "Text when dont have made any order:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1015
+msgid "You dont have any orders made yet"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1031
+msgid "Enable for Display & Change the customer total reviews texts"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1039
+msgid "review"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1042
+msgid "reviews"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1045
+msgid "Text when dont have made any review:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1045
+msgid "You dont have any review made yet"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1061
+msgid "Enable for Display & Change the text of Order´s message"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1066
+msgid "Message text:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1066
+#, php-format
+msgid ""
+"Hi %1$s!<br />To reward your activity in our shop with %2$s orders, we want "
+"give to you a 50%% discount for your next order!! \n"
+"<br />Enter this coupon code in your next order: WSHK50TST"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1070
+msgid "Set the number of orders to display the message:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1072
+msgid ""
+"Set the custom text to display if the customer not have orders made yet:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1072
+msgid "Dont have made orders yet"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1074
+msgid "Set the custom text to display if the customer have more orders:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1074
+msgid "Coming soon more gifts"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1090
+msgid "Enable for Display the customer reviews with link to the product"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1090 woo-shortcodes-kit.php:1141
+msgid "Expand for Customize the style"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1096 woo-shortcodes-kit.php:1147
+msgid "Customize the avatar"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1097 woo-shortcodes-kit.php:1148
+msgid "Avatar size:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1098 woo-shortcodes-kit.php:1149
+msgid "Avatar border (size):"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1099 woo-shortcodes-kit.php:1150
+msgid "Avatar border (radius):"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1100 woo-shortcodes-kit.php:1151
+msgid "Avatar border (type):"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1100 woo-shortcodes-kit.php:1111
+#: woo-shortcodes-kit.php:1120 woo-shortcodes-kit.php:1151
+#: woo-shortcodes-kit.php:1163 woo-shortcodes-kit.php:1229
+#: woo-shortcodes-kit.php:1298
+msgid "solid"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1101 woo-shortcodes-kit.php:1152
+msgid "Avatar border (color):"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1102 woo-shortcodes-kit.php:1153
+msgid "Avatar cell (width):"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1103 woo-shortcodes-kit.php:1155
+msgid "Avatar shadow:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1107 woo-shortcodes-kit.php:1159
+msgid "Customize the box"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1108 woo-shortcodes-kit.php:1160
+msgid "Box Font (size):"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1109 woo-shortcodes-kit.php:1161
+msgid "Box border (size):"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1110 woo-shortcodes-kit.php:1162
+msgid "Box border (radius):"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1111 woo-shortcodes-kit.php:1163
+msgid "Box border (type):"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1112 woo-shortcodes-kit.php:1164
+msgid "Box border (color):"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1113 woo-shortcodes-kit.php:1165
+msgid "Box background (color):"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1114 woo-shortcodes-kit.php:1166
+msgid "Box padding:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1117
+msgid "Customize the button"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1118 woo-shortcodes-kit.php:1296
+msgid "Button border (size):"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1119 woo-shortcodes-kit.php:1297
+msgid "Button border (radius):"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1120 woo-shortcodes-kit.php:1298
+msgid "Button border (type):"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1121 woo-shortcodes-kit.php:1299
+msgid "Button border (color):"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1122
+msgid "Button target:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1123 woo-shortcodes-kit.php:1305
+msgid "Button text-decoration:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1124 woo-shortcodes-kit.php:1304
+msgid "Button text:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1124
+msgid "View product"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1141
+msgid "Enable for Display all the users reviews where you want"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1154
+msgid "Avatar margin top:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1167
+msgid "Box height:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1170
+msgid "Customize the title"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1172
+msgid "Title text size:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1173
+msgid "Title text color:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1174
+msgid "Title text-decoration:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1175
+msgid "Title link target:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1183
+msgid "How many reviews want display?"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1183
+msgid ""
+"Write all to show all reviews or a specific number to show this number of "
+"reviews."
+msgstr ""
+
+#: woo-shortcodes-kit.php:1185
+msgid "How many columns want display?:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1185
+msgid ""
+"Write the number of columns that you want display the reviews, normally is "
+"used 1, 2,3 or 4."
+msgstr ""
+
+#: woo-shortcodes-kit.php:1214
+msgid "Enable for Display the user gravatar image"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1214 woo-shortcodes-kit.php:1255
+#: woo-shortcodes-kit.php:1289
+msgid "Expand for Customize the style."
+msgstr ""
+
+#: woo-shortcodes-kit.php:1220
+msgid "Gravatar size:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1222
+msgid "Gravatar shadow:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1227
+msgid "Border size:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1229
+msgid "Border type:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1231
+msgid "Boder color:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1233
+msgid "Border radius:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1255
+msgid "Enable for Display the username"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1261
+msgid "Text prefix:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1261
+msgid "Hello"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1263
+msgid "Text suffix:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1268
+msgid "Text color:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1270
+msgid "Text size:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1272
+msgid "Text align:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1289
+msgid "Enable for Display the Logout button"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1304
+msgid "Logout"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1305
+msgid "none"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1306
+msgid "Button text-align:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1306
+msgid "center"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1307
+msgid "Button width:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1319
+msgid ""
+"By default the logout button will redirect the users to the WooCommerce my "
+"account page, but you can change it for your custom page."
+msgstr ""
+
+#: woo-shortcodes-kit.php:1319
+msgid ""
+"Just need write the custom page slug to redirect the users after the logout:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1319
+msgid "custom-page-slug"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1319
+msgid ""
+"Use it if you are building your own myaccount page and want redirect the "
+"user to a specific page after the logout."
+msgstr ""
+
+#: woo-shortcodes-kit.php:1335
+msgid "Enable for Display the Login form"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1335
+msgid "Expand for Customize the after login redirection."
+msgstr ""
+
+#: woo-shortcodes-kit.php:1342
+msgid "Write the custom page slug to redirect the users after the login:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1342
+msgid "custom-account-page"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1342
+msgid ""
+"Use it if you are building your own myaccount page or want redirect the user "
+"to a specific page after the login."
+msgstr ""
+
+#: woo-shortcodes-kit.php:1348
+msgid ""
+"Write the custom page slug to Redirect the not logged in users, if try to "
+"access to myaccount page:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1348
+msgid "my-login"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1348
+msgid ""
+"Use it if you are building your own myaccount page and want to Block the "
+"access to myaccount page to not logged in users"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1364
+msgid "CUSTOMIZE THE MENU"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1374
+msgid ""
+"Enable for display a custom menu for logged in users and other for non "
+"logged in users"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1374
+msgid "Expand to write the menu name for each case"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1379
+msgid "Write the menu location where you want apply the changes:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1382
+msgid "Write the menu location here"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1382
+msgid "Locations examples:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1388
+msgid "Write the name of the menu for logged in users:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1388 woo-shortcodes-kit.php:1394
+msgid "Write the menu name"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1388 woo-shortcodes-kit.php:1394
+msgid "You need make first your custom menu in Appearance > Menus."
+msgstr ""
+
+#: woo-shortcodes-kit.php:1394
+msgid "Write the name of the menu for non logged in users:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1417
+msgid "Enable for let add shortcodes in the menu items titles"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1417 woo-shortcodes-kit.php:1471
+#: woo-shortcodes-kit.php:1489
+msgid "Just need activate the function and nothing more!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1421
+msgid "You can combine this function with the others of the same category."
+msgstr ""
+
+#: woo-shortcodes-kit.php:1433
+msgid "Enable for display the username in the menu"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1433
+msgid "Just need activate and paste the shortcode in your menu item title!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1441
+msgid "The special shortcode for this function is:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1446
+msgid "Copy the Shortcode and Paste in your menu item title"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1446
+msgid ""
+"For display the username in other sites, check the Shortcodes section and "
+"look for display user name."
+msgstr ""
+
+#: woo-shortcodes-kit.php:1461
+msgid "ADD LOGIN SECURITY & RESTRICT CONTENT"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1471
+msgid "Enable for block the access to the wp-admin and wp-login.php"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1475
+msgid ""
+"After active this function nobody will can access to the wp-admin or wp-"
+"login.php, and will be redirected to the login form page."
+msgstr ""
+
+#: woo-shortcodes-kit.php:1489
+msgid ""
+"Enable for block the access to the backend from top admin bar for non admin "
+"users"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1493
+msgid ""
+"After active this function nobody will can access to the backend from top "
+"admin bar, because will be hide."
+msgstr ""
+
+#: woo-shortcodes-kit.php:1507
+msgid "Enable for restrict custom content for non logged in users"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1507
+msgid "Just need activate the function and use the restrict content shortcode!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1511
+msgid ""
+"If you are building your custom my account page or want hide any content for "
+"non logged in users, use this Shortcode:\n"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1512
+msgid ""
+"Put here the content that you want restrict, can be shortcodes too\n"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1526
+msgid "Enable for restrict custom content for logged in users"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1526
+msgid "Just need activate the function and use the off content shortcode!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1530
+msgid ""
+"If you want hide any content for logged in users and show only for non "
+"logged in users, use this Shortcode:\n"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1531
+msgid ""
+"Put here the content that you want hide for logged in users, can be "
+"shortcodes too\n"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1594
+msgid "SAVE SETTINGS"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1616
+msgid "Shortcodes Panel"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1617
+msgid "Hover the elements to see the shortcodes."
+msgstr ""
+
+#: woo-shortcodes-kit.php:1617
+msgid "Copy the shortcode and paste where you want."
+msgstr ""
+
+#: woo-shortcodes-kit.php:1617 woo-shortcodes-kit.php:2359
+msgid "(Some shortcodes need enable his function to work)"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1762
+msgid "Show all"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1763
+msgid "Build my account"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1764
+msgid "Counters"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1765
+msgid "Addons"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1782 woo-shortcodes-kit.php:1850
+#: woo-shortcodes-kit.php:2008 woo-shortcodes-kit.php:2079
+#: woo-shortcodes-kit.php:2102 woo-shortcodes-kit.php:2125
+#: woo-shortcodes-kit.php:2148 woo-shortcodes-kit.php:2194
+#: woo-shortcodes-kit.php:2217 woo-shortcodes-kit.php:2240
+msgid "NEW"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1787
+msgid "Orders list"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1789
+msgid "If you want show user the purchase my-orders table, use this Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1810
+msgid "Global sales"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1812
+msgid "If you want show the global sales/downloads counter use this shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1832
+msgid "Total Products counter"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1834
+msgid ""
+"If you want show the total products on any page or post, use this Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1834
+msgid "if you want exclude any category use:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1834
+msgid "here the category ID number"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1855
+msgid "Downloads list"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1857
+msgid "If you want show user the downloads table, use this Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1877
+msgid "Bought products"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1879
+msgid ""
+"If you want show user the products that have bought, use this Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1899
+msgid "Gravatar image"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1901
+msgid "If you want show the user Gravatar image, use this Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1921
+msgid "Total products by user"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1923
+msgid "If you want show the total bought products by user, use this Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1944
+msgid "Total orders by user"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1946
+msgid "If you want show the total orders made by user, use this Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1967
+msgid "Total reviews by user"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1969
+msgid "If you want show the total reviews made by a user, use this Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1990
+msgid "Reviews by user"
+msgstr ""
+
+#: woo-shortcodes-kit.php:1992
+msgid ""
+"If you want show the products reviews made by a user, use this Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2014
+msgid "Display Reviews"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2016
+msgid ""
+"If you want show the products reviews made by all the users, use this "
+"Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2038
+msgid "Username"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2040
+msgid "If you want show the username in any page or post, use this shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2061
+msgid "Message by Orders"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2063
+msgid ""
+"If you want show a message if the user made a number of orders, use this "
+"Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2084
+msgid "Addresses"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2086
+msgid ""
+"If you want display the customer billing & shipping address in any post or "
+"page, use this Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2107
+msgid "Payments methods"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2109
+msgid ""
+"If you want display the customer payment methods saved in any post or page, "
+"use this Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2130
+msgid "Edit account form"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2132
+msgid ""
+"If you want display the customer edit account form in any post or page, use "
+"this Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2153
+msgid "Dashboard"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2155
+msgid ""
+"If you want display the my-account dashboard in any post or page, use this "
+"Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2176
+msgid "Logout button"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2178
+msgid ""
+"If you want display the Logout button in any post or page, use this "
+"Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2199
+msgid "Login form"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2201
+msgid ""
+"If you are building your custom my account page and want display the Login "
+"form for non logged in users, use this Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2222
+msgid "Restrict content"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2224
+msgid ""
+"If you are building your custom my account page or want hide any content for "
+"non logged in users, use this Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2245
+msgid "Hide content"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2247
+msgid ""
+"If you want hide any content for logged in users and display only for non "
+"logged in users, use this Shortcode:"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2264
+msgid "Coming soon..."
+msgstr ""
+
+#: woo-shortcodes-kit.php:2266
+msgid "New functions will be added in the nexts updates"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2358
+msgid "Help & Support!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2359
+msgid "Just need hover the items and do 1 click in the white text."
+msgstr ""
+
+#: woo-shortcodes-kit.php:2519
+msgid "CONTACT"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2519
+msgid "Need help or have ideas to add?"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2523
+msgid "SEND A MESSAGE!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2530
+msgid "CHANGELOG"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2530
+msgid "Want check the new changes?"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2534
+msgid "CHECK NOW!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2541
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2541
+msgid "Know all about how work WSHK!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2543
+msgid "VIEW DOC!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2550
+msgid "THE WEB"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2550
+msgid "Want know more about WSHK?"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2552
+msgid "VISIT NOW!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2558
+msgid "THE FANPAGE"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2558
+msgid "Follow all the next news!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2560
+msgid "FOLLOW THE NEWS!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2566
+msgid "RATE IT!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2566
+msgid "Help to follow growing!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2568
+msgid "ADD YOUR REVIEW!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2578
+msgid "DISCOVER THE POWER OF WSHK!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2582
+msgid "Build your own"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2582
+msgid "myaccount page!"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2587
+msgid "Learn how work"
+msgstr ""
+
+#: woo-shortcodes-kit.php:2587
+msgid "all the functions!"
+msgstr ""
+
+#. Name of the plugin
+msgid "Woo Shortcodes Kit"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easy shortcodes which can be displayed on any page or post to build your own "
+"my account page and customize the shop page, order emails, the add to cart "
+"button and much more!. Enjoy customizing easilly your WooCommerce's shop "
+"with more than 30 shortcodes & functions. This plugin not work alone, you "
+"need install WooCommerce before."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://disespubli.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Alberto G."
+msgstr ""

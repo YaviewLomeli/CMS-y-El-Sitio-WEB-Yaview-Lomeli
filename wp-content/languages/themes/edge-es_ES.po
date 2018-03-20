@@ -1,0 +1,687 @@
+# Translation of Themes - Edge in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Edge package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-25 11:13:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Edge\n"
+
+#. #-#-#-#-#  edge.pot (Edge 1.2.1.0)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/upgrade-plus/class-customize.php:63
+msgid "Edge"
+msgstr "Edge"
+
+#. Description of the plugin/theme
+msgid "Edge is a Responsive Blogger WordPress Theme, Designed and Developed by Theme Freesia. Edge is Simple, clean, blog-focused, and designed for clarity. It is also translation ready and easily customizable with lots of options using Customizer. It consists contact us template, gallery template, widgets and sidebar. Get free support at https://tickets.themefreesia.com/ and View demo site at https://demo.themefreesia.com/edge."
+msgstr "Edge es un tema de WordPress de diseño adaptable para bloggers, diseñado y desarrollado por Theme Freesia. Edge es simple, limpio, enfocado en el blog y diseñado con claridad. También está preparado para traducciones y es fácilmente personalizable con un montón de opciones utilizando el personalizador. Contiene una plantilla de contacto, una plantilla de galería, widgets y una barra lateral. Obtén asistencia gratuita en https://tickets.themefreesia.com/ y mira el sitio de demostración en http://demo.themefreesia.com/edge."
+
+#: functions.php:143
+msgid "Support Ticket"
+msgstr "Ticket de soporte"
+
+#: inc/customizer/functions/theme-options.php:130
+msgid "Display Instagram Full Width"
+msgstr "Mostrar Instagram a ancho completo"
+
+#: inc/upgrade-plus/class-customize.php:64
+msgid "Upgrade To Plus"
+msgstr "Mejora a Plus"
+
+#: inc/customizer/functions/theme-options.php:119
+msgid "Display Page Featured Image"
+msgstr "Visualiza la pagina que se muestra en la imagen"
+
+#: inc/customizer/functions/design-options.php:39
+msgid "Disable Big letter"
+msgstr "Desactivar la letra grande"
+
+#: single.php:103
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:102
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: single.php:98
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
+
+#: single.php:97
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: inc/customizer/edge-default-values.php:27 searchform.php:18
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: inc/widgets/widgets-functions/register-widgets.php:16
+msgid "Shows widgets at Main Sidebar."
+msgstr "Muestra widgets en la barra lateral principal."
+
+#: inc/widgets/widgets-functions/register-widgets.php:14
+msgid "Main Sidebar"
+msgstr "Barra lateral principal"
+
+#: inc/settings/edge-common-functions.php:101
+msgid "Archives"
+msgstr "Archivos"
+
+#: inc/settings/edge-common-functions.php:95
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/settings/edge-common-functions.php:91
+msgid "Quotes"
+msgstr "Citas"
+
+#: inc/settings/edge-common-functions.php:89
+msgid "Status"
+msgstr "Estado"
+
+#: inc/settings/edge-common-functions.php:87
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/settings/edge-common-functions.php:79
+msgid "Audios"
+msgstr "Audios"
+
+#: inc/settings/edge-common-functions.php:75
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: inc/settings/edge-common-functions.php:70
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/settings/color-option-functions.php:55
+msgid "Blue"
+msgstr "Azul"
+
+#: inc/settings/color-option-functions.php:44
+msgid "Pink"
+msgstr "Rosa"
+
+#: inc/settings/color-option-functions.php:34
+msgid "Yellow"
+msgstr "Amarillo"
+
+#: inc/settings/color-option-functions.php:24
+msgid "Dark"
+msgstr "Oscuro"
+
+#: footer.php:89
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:89
+msgid "Powered by:"
+msgstr "Hecho por:"
+
+#: inc/customizer/functions/theme-options.php:183
+msgid "Colors"
+msgstr "Colores"
+
+#: inc/customizer/functions/theme-options.php:96
+msgid "Disable Buttom Social Icons"
+msgstr "Desactivar los botones de los iconos sociales"
+
+#: inc/customizer/functions/theme-options.php:85
+msgid "Disable Top Social Icons"
+msgstr "Desactivar iconos sociales de la parte superior"
+
+#: inc/customizer/functions/theme-options.php:52
+msgid "Disable Search Form"
+msgstr "Desactivar el formulario de búsqueda"
+
+#: inc/customizer/functions/theme-options.php:41
+msgid "Edge Options"
+msgstr "Opciones de Edge "
+
+#: inc/customizer/functions/social-icons.php:123
+msgid "Linkedin Link"
+msgstr "Enlace Linkedin"
+
+#: inc/customizer/functions/social-icons.php:109
+msgid "Google Plus Link"
+msgstr "Enlace Google Plus"
+
+#: inc/customizer/functions/social-icons.php:95
+msgid "Flickr Link"
+msgstr "Enlace Flickr"
+
+#: inc/customizer/functions/social-icons.php:81
+msgid "Instagram Link"
+msgstr "Enlace Instagram"
+
+#: inc/customizer/functions/social-icons.php:53
+msgid "Pinterest Link"
+msgstr "Enlace Pinterest"
+
+#: inc/customizer/functions/social-icons.php:39
+msgid "Twitter Link"
+msgstr "Enlace Twitter"
+
+#: inc/customizer/functions/social-icons.php:25
+msgid "Facebook Link"
+msgstr "Enlace Facebook"
+
+#: inc/customizer/functions/register-panel.php:56
+msgid "Edge Colors"
+msgstr "Colores de Edge"
+
+#: inc/customizer/functions/register-panel.php:16
+msgid "Edge WordPress Settings"
+msgstr "Opciones de Edge en WordPress"
+
+#: inc/customizer/functions/featured-content-customizer.php:70
+msgid "Show Background Color"
+msgstr "Mostrar color de fondo"
+
+#: inc/customizer/functions/featured-content-customizer.php:53
+msgid "Secondary Button Url"
+msgstr "Boton secundario para URL"
+
+#: content.php:30 single.php:86
+msgid ", "
+msgstr ", "
+
+#: inc/customizer/functions/design-options.php:78
+msgid "Hide Entry Format"
+msgstr "Ocultar formato de entradas"
+
+#: inc/customizer/functions/design-options.php:29
+#: inc/customizer/functions/design-options.php:45
+msgid "OFF"
+msgstr "OFF"
+
+#: inc/customizer/functions/design-options.php:28
+#: inc/customizer/functions/design-options.php:44
+msgid "ON "
+msgstr "ON "
+
+#: inc/customizer/functions/color-options.php:60
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: functions.php:150
+msgid "About Edge"
+msgstr "Sobre Edge"
+
+#: functions.php:144
+msgid "Forum"
+msgstr "Foro"
+
+#: inc/customizer/functions/social-icons.php:67
+msgid "Dribbble Link"
+msgstr "Enlace Dribbble"
+
+#: page-templates/gallery-template.php:39 page.php:48 single.php:71
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/widgets/widgets-functions/register-widgets.php:50
+msgid "Add WooCommerce Widgets Only"
+msgstr "Añadir solo Widgets de WooCommerce"
+
+#: inc/widgets/widgets-functions/register-widgets.php:41
+msgid "Add Contact Form 7 Shortcode using text widgets Ex: [contact-form-7 id=\"137\" title=\"Contact form 1\"]"
+msgstr "Añade el shortcode de Contact Form 7 usando widgets de texto Ej: [contact-form-7 id=\"137\" title=\"Contact form 1\"]"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:50
+msgid "Phone No 2:"
+msgstr "Teléfono 2:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:44
+msgid "Phone No 1:"
+msgstr "Teléfono 1:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:13
+msgid "TF: Contact Us"
+msgstr "TF: Contáctanos"
+
+#: inc/settings/edge-common-functions.php:83
+msgid "Images"
+msgstr "Imágenes"
+
+#: inc/settings/edge-common-functions.php:77
+msgid "Year: %s"
+msgstr "Año: %s"
+
+#: inc/settings/edge-common-functions.php:73
+msgid "Day: %s"
+msgstr "Día: %s"
+
+#: inc/settings/edge-common-functions.php:21
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: inc/settings/edge-common-functions.php:18
+msgid "Older Comments"
+msgstr "Comentarios más antiguos"
+
+#: inc/settings/color-option-functions.php:65
+msgid "Purple"
+msgstr "Púrpura"
+
+#: inc/settings/color-option-functions.php:14
+msgid "--Default--"
+msgstr "--Predeterminado--"
+
+#: footer.php:88
+msgid "Designed by:"
+msgstr "Diseñado por:"
+
+#: inc/customizer/functions/theme-options.php:193
+msgid "Navigation"
+msgstr "Navegación"
+
+#: inc/customizer/functions/theme-options.php:164
+#: inc/customizer/functions/theme-options.php:175
+msgid "Footer Background Image"
+msgstr "Imagen de fondo del pie de página"
+
+#: inc/customizer/functions/theme-options.php:147
+msgid "Enter your custom CSS"
+msgstr "Introduce tu CSS personalizado"
+
+#: inc/customizer/functions/featured-content-customizer.php:71
+msgid "Hide Background Color"
+msgstr "Ocultar color de fondo"
+
+#: inc/customizer/functions/featured-content-customizer.php:41
+msgid "Secondary Button Text"
+msgstr "Texto del botón secundario"
+
+#: inc/customizer/functions/featured-content-customizer.php:30
+msgid "Disable Slider"
+msgstr "Desactivar slider"
+
+#: inc/customizer/functions/featured-content-customizer.php:23
+msgid "Enable Slider"
+msgstr "Activar slider"
+
+#: inc/customizer/functions/featured-content-customizer.php:12
+msgid "Slider Settings"
+msgstr "Propiedades del slider"
+
+#: inc/customizer/functions/design-options.php:111
+msgid "Boxed Layout"
+msgstr "Diseño en caja"
+
+#: inc/customizer/functions/design-options.php:110
+msgid "Full Width Layout"
+msgstr "Diseño de ancho completo"
+
+#: inc/customizer/functions/design-options.php:105
+msgid "Design Layout"
+msgstr "Diseño"
+
+#: inc/customizer/functions/design-options.php:80
+msgid "Hide Button Only"
+msgstr "Ocultar únicamente el botón"
+
+#: inc/customizer/functions/design-options.php:79
+msgid "Show Button Only"
+msgstr "Mostrar únicamente el botón"
+
+#: inc/customizer/functions/design-options.php:23
+msgid "Responsive Layout"
+msgstr "Diseño responsive"
+
+#: inc/customizer/functions/design-options.php:12
+msgid "Layout Options"
+msgstr "Opciones de diseño"
+
+#: inc/customizer/functions/color-options.php:38
+msgid "Nav and links"
+msgstr "Navegación y enlaces"
+
+#: inc/customizer/functions/color-options.php:24
+msgid "Select Color Style"
+msgstr "Seleccionar estilos de color"
+
+#: inc/customizer/functions/color-options.php:11
+msgid "Color Options"
+msgstr "Opciones de color"
+
+#: functions.php:137 functions.php:138
+msgid "Review Edge"
+msgstr "Reseñar Edge"
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#: functions.php:53
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: content.php:86 single.php:53
+msgid "Comments Off"
+msgstr "Comentarios desactivados"
+
+#. Template Name of the plugin/theme
+msgid "Gallery Template"
+msgstr "Plantilla de galería"
+
+#. Template Name of the plugin/theme
+msgid "Contact Template"
+msgstr "Plantilla de contacto"
+
+#: pagination.php:19
+msgid "&laquo; Previous Page"
+msgstr "&laquo; Página anterior"
+
+#: index.php:35 page-templates/contact-template.php:51
+#: page-templates/gallery-template.php:52 page.php:61 search.php:49
+#: single.php:112
+msgid "No Posts Found."
+msgstr "No se han encontrado entradas."
+
+#: inc/widgets/widgets-functions/register-widgets.php:62
+msgid "Shows widgets at Footer Column "
+msgstr "Mostrar widgets en una columna de pie de página"
+
+#: inc/widgets/widgets-functions/register-widgets.php:60
+msgid "Footer Column "
+msgstr "Columna de pie de página"
+
+#: inc/widgets/widgets-functions/register-widgets.php:48
+msgid "WooCommerce Sidebar"
+msgstr "Barra lateral de WooCommerce"
+
+#: inc/widgets/widgets-functions/register-widgets.php:39
+msgid "Shortcode For Contact Page"
+msgstr "Código para la página de contacto"
+
+#: inc/widgets/widgets-functions/register-widgets.php:32
+msgid "Shows widgets on Contact Page Template."
+msgstr "Muestra widgets en la plantilla de la página de contacto."
+
+#: inc/widgets/widgets-functions/register-widgets.php:30
+msgid "Contact Page Sidebar"
+msgstr "Barra lateral de la página de contacto"
+
+#: inc/widgets/widgets-functions/register-widgets.php:25
+msgid "Shows widgets on all page."
+msgstr "Muestra widgets en todas las páginas."
+
+#: inc/widgets/widgets-functions/register-widgets.php:23
+msgid "Display Contact Info at Header "
+msgstr "Mostrar información de contacto en la cabecera"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:38
+msgid "Address Link:"
+msgstr "Enlace de dirección:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:32
+msgid "Address:"
+msgstr "Dirección:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:26
+msgid "Contact Title:"
+msgstr "Título de contacto:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:11
+msgid "Display Contact Us Information"
+msgstr "Mostrar información de contacto"
+
+#: inc/settings/edge-common-functions.php:108
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: inc/settings/edge-common-functions.php:106
+msgid "Page NOT Found"
+msgstr "Página no encontrada"
+
+#: inc/settings/edge-common-functions.php:85
+msgid "Galleries"
+msgstr "Galerías"
+
+#: inc/settings/edge-common-functions.php:15
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: inc/settings/color-option-functions.php:75
+msgid "Van Buren Brown"
+msgstr "Marrón dorado"
+
+#: inc/customizer/functions/theme-options.php:198
+msgid "Static Front Page"
+msgstr "Página frontal estática"
+
+#: inc/customizer/functions/theme-options.php:188
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/customizer/functions/theme-options.php:176
+msgid "Image will be displayed on footer"
+msgstr "La imagen se mostrará en el pie de página"
+
+#: inc/customizer/functions/theme-options.php:74
+msgid "Disable Goto Top"
+msgstr "Desactivar ir hacia arriba"
+
+#: inc/customizer/functions/theme-options.php:36
+msgid "Header Image"
+msgstr "Imagen de la cabecera"
+
+#: inc/customizer/functions/theme-options.php:32
+msgid "Disable Both"
+msgstr "Desactivar ambos"
+
+#: inc/customizer/functions/theme-options.php:31
+msgid "Show Both"
+msgstr "Mostrar ambos"
+
+#: inc/customizer/functions/theme-options.php:30
+msgid "Display Site Logo Only"
+msgstr "Mostrar únicamente el logo del sitio"
+
+#: inc/customizer/functions/theme-options.php:29
+msgid "Display Site Title Only"
+msgstr "Mostrar únicamente el título del sitio"
+
+#: inc/customizer/functions/theme-options.php:12
+msgid "Site Title & Logo Options"
+msgstr "Opciones del título y el logo del sitio"
+
+#: inc/customizer/functions/register-panel.php:46
+msgid "Edge Widgets"
+msgstr "Widgets de Edge"
+
+#: inc/customizer/functions/frontpage-features.php:23
+msgid "Disable in Front Page"
+msgstr "Desactivar en página principal"
+
+#: inc/customizer/functions/featured-content-customizer.php:88
+msgid " Page Slider #"
+msgstr "Slider de página #"
+
+#: inc/customizer/functions/featured-content-customizer.php:75
+msgid "Display Page Slider"
+msgstr "Mostrar slider en la página"
+
+#: inc/customizer/functions/featured-content-customizer.php:65
+msgid "Slider Content With background color"
+msgstr "Contenido del slider con color de fondo"
+
+#: inc/customizer/functions/featured-content-customizer.php:29
+msgid "Entire Site"
+msgstr "Sitio entero"
+
+#: inc/customizer/functions/featured-content-customizer.php:28
+msgid "Front Page"
+msgstr "Página principal"
+
+#: inc/customizer/functions/design-options.php:112
+msgid "Small Boxed Layout"
+msgstr "Diseño en caja pequeña"
+
+#: inc/customizer/functions/design-options.php:95
+msgid "Hide Entry Meta"
+msgstr "Ocultar meta"
+
+#: inc/customizer/functions/design-options.php:94
+msgid "Display Entry Meta"
+msgstr "Mostrar meta"
+
+#: inc/customizer/functions/design-options.php:77
+msgid "Display Entry Format"
+msgstr "Mostrar formato de entradas"
+
+#: inc/customizer/functions/design-options.php:56
+msgid "Blog Layout"
+msgstr "Diseño de blog"
+
+#: footer.php:98
+msgid "Go to Top"
+msgstr "Ir arriba"
+
+#: content.php:86 single.php:53
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: content.php:86 single.php:53
+msgid "No Comments"
+msgstr "Sin comentarios"
+
+#: content.php:64 inc/customizer/edge-default-values.php:30
+#: inc/settings/edge-functions.php:199
+msgid "Read More"
+msgstr "Leer más"
+
+#: comments.php:18
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: 404.php:34
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no hay nada en este lugar. ¿Quiere buscar otra cosa?"
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: inc/customizer/functions/theme-options.php:63
+msgid "Disable Stick Menu"
+msgstr "Desactivar el menú fijo"
+
+#: inc/customizer/functions/frontpage-features.php:36
+msgid " Feature #"
+msgstr "Destacado #"
+
+#: inc/customizer/functions/frontpage-features.php:12
+msgid "Display FrontPage Features"
+msgstr "Mostrar destacados en la página principal"
+
+#: inc/customizer/functions/design-options.php:62
+msgid "Blog Medium Image Display"
+msgstr "Presentación con imágenes medianas"
+
+#: inc/customizer/functions/design-options.php:61
+msgid "Blog Large Image Display"
+msgstr "Presentación con imágenes grandes"
+
+#: inc/customizer/functions/design-options.php:63
+msgid "Single Column Blog Display"
+msgstr "Presentación en una única columna"
+
+#: inc/customizer/functions/design-options.php:73
+msgid "Disable Entry Format from Blog Page"
+msgstr "Formato en la página de entradas"
+
+#: inc/customizer/functions/design-options.php:90
+msgid "Disable Entry Meta from Blog Page"
+msgstr "Meta en la página de entradas"
+
+#: inc/customizer/functions/theme-options.php:23
+msgid "Site Logo/ Text Options"
+msgstr "Opciones de logo/texto del sitio"
+
+#: functions.php:140 functions.php:141
+msgid "Theme Instructions"
+msgstr "Instrucciones del tema"
+
+#. #-#-#-#-#  edge.pot (Edge 1.2.1.0)  #-#-#-#-#
+#. Author of the plugin/theme
+#: footer.php:88
+msgid "Theme Freesia"
+msgstr "Theme Freesia"
+
+#: inc/customizer/functions/register-panel.php:26
+msgid "Edge Theme Options"
+msgstr "Opciones del tema Edge"
+
+#: content.php:86 single.php:53
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: pagination.php:22
+msgid "Next Page &raquo;"
+msgstr "Página siguiente &raquo;"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:62
+msgid "Email ID:"
+msgstr "ID de correo electrónico:"
+
+#: inc/settings/edge-common-functions.php:93
+msgid "links"
+msgstr "enlaces"
+
+#: 404.php:31
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Ups! La página que buscas no existe."
+
+#: inc/customizer/functions/color-options.php:49
+msgid "Buttons Reset/ Submit"
+msgstr "Botones Resetear/Enviar"
+
+#: inc/customizer/functions/register-panel.php:36
+msgid "Edge Slider Options"
+msgstr "Opciones del carrusel de Edge"
+
+#: inc/customizer/functions/social-icons.php:12
+msgid "Social Icons"
+msgstr "Iconos sociales"
+
+#: inc/customizer/functions/theme-options.php:142
+msgid "Reset all default settings. (Refresh it to view the effect)"
+msgstr "Restablecer todos los ajustes por defecto. (Actualiza para ver el resultado)"
+
+#: inc/customizer/functions/theme-options.php:158
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: inc/settings/edge-common-functions.php:81
+msgid "Asides"
+msgstr "Minientradas"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:56
+msgid "Skype ID:"
+msgstr "ID de Skype:"
+
+#: single.php:84
+msgid "Category : "
+msgstr "Categoría:"
+
+#. Author URI of the plugin/theme
+msgid "https://themefreesia.com"
+msgstr "https://themefreesia.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://themefreesia.com/themes/edge"
+msgstr "https://themefreesia.com/themes/edge"
